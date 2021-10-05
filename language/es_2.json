@@ -1,8 +1,8 @@
 [{
-    "translator": "Antho#0707 & Javiito32",
+    "translator": "Jonaloonso_",
     "language": "es",
-    "on": "On",
-    "off": "Off",
+    "on": "Encendido",
+    "off": "Apagado",
     "spectatingUser": "Specteando ~b~<C>%s</C>.",
     "stoppedSpectating": "Has parado de spectear.",
     "6hours": "6 Horas",
